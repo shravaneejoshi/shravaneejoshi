@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shravaneejoshi
 - 🎓🎓Pursing BE in Information Technology
-- 💻languages : HTML,CSS,JS,c++,java,python
-- Domain:Computer Network , Database Management 
+- 💻languages : HTML,CSS,c++,java,python
 - 👀 I’m interested in Web-development, Machine learning, Cybersecurity
 - 🌱 I’m currently learning web-devlopment
 - 📫 How to reach me ...
+https://www.linkedin.com/in/shravani-joshi-ba25a5256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 <!---
