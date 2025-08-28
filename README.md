@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shravaneejoshi
 - 🎓🎓Pursing BE in Information Technology
-- 💻languages : HTML,CSS,c++,java,python
+- 💻languages : HTML,CSS,c++,JavaScript
+- Frameworks and libraries : Bootstrap,React,Material UI
 - 👀 I’m interested in Web-development, Machine learning
 - 🌱 I’m currently learning web-devlopment
 - 📫 How to reach me ...
